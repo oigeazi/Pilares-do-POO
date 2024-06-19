@@ -1,3 +1,5 @@
+package apps;
+
 public class FacebookMessenger extends ServicoMensagemInstantanea {
     public void enviarMensagem() {
         System.out.println("Enviando mensagem pelo Facebook Messenger");
